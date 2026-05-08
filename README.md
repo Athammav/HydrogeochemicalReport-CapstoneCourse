@@ -17,5 +17,5 @@ University group capstone project focused on the Hydro-geochemical analysis of c
 
 ## Files Included
 - Final project report
-- Field Datra sheets
+- Field Data sheets
 - Maps and Figures
