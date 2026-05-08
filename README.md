@@ -1,9 +1,9 @@
 # HydrogeochemicalReport-CapstoneCourse
 
-##Overview
+## Overview
 University group capstone project focused on the Hydro-geochemical analysis of contaminated water wells. 
 
-##My contributions
+## My contributions
 - Conducted field data collection
 - Analyzed environmental data (pH, ORP, and alkalinity)
 - Cross-section creation
@@ -15,7 +15,7 @@ University group capstone project focused on the Hydro-geochemical analysis of c
 - Technical Writing
 - Team Collaboration
 
-##Files Included
+## Files Included
 - Final project report
 - Field Datra sheets
 - Maps and Figures
